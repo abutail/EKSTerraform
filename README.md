@@ -1,5 +1,5 @@
 # EKSTerraform
-Multiple EKS Cluster in a single VPC
+Multiple EKS Clusters in a single VPC
 ### Step 1: Install Terraform
 
 #### On macOS (using Homebrew):
